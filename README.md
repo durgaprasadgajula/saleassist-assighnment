@@ -34,13 +34,13 @@ TANN TRIM is an online store where you can find a wide range of bags, backpacks,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tann-trim.git
+   git clone https://github.com/your-username/tann-trim.git](https://github.com/durgaprasadgajula/saleassist-assighnment.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd tann-trim
+   cd saleassist-assighnment
    ```
 
 3. Install dependencies:
