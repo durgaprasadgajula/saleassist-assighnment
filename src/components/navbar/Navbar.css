@@ -1,0 +1,40 @@
+/* .nav-menu1{
+	display: grid;
+	grid-template-columns: repeat(4,auto);
+	column-gap: 20px;
+} */
+.nav-container{
+	box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.16);
+}
+
+.navlogo{
+	position: relative;
+	
+	height: 28px;
+	top: 19px;
+	left: 50px;
+	text-decoration: none;
+	font-family: Comme;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.55em;
+text-align: left;
+color: rgba(229, 223, 217, 1);
+
+
+}
+
+.nav-list{
+	position: relative;
+	width: 200px;
+height: 24px;
+top: 19px;
+right: 50px;
+
+}
+
+
+.nav-item{
+	margin-left: 30px;
+}

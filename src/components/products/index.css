@@ -1,0 +1,23 @@
+.small-container{
+	display: flex;
+	justify-content: space-between;
+
+margin-top: 3%;
+
+}
+.header{
+	font-family: "Encode Sans";
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.1em;
+text-align: left;
+
+}
+.product-container{
+	display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Four columns with equal width */
+  gap: 32px;
+  margin: auto;
+	padding: 30px;
+}

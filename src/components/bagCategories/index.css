@@ -1,0 +1,27 @@
+.categories{
+	display: flex;
+	justify-content: space-between;
+	color: white;
+	
+	width: 100vw;
+height: 130px;
+align-items: center;
+
+list-style-type: none;
+
+}
+.li-item{
+	
+height: 124px;
+width: 90px;
+height: 90px;
+left: 146px;
+/* padding: 26.25px, 3.6px, 3.24px, 2.24px; */
+margin-left: 10px;
+
+}
+
+.main-container{
+	display: flex;
+	min-width: 100vw;
+}
